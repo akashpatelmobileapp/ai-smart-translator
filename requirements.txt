@@ -1,0 +1,32 @@
+# Core AI Framework
+langchain
+langchain-core
+langchain-community
+
+# Mistral
+langchain-mistralai
+
+# Environment Variables
+python-dotenv
+
+# API & Web
+requests
+httpx
+
+# Data Handling
+pandas
+numpy
+
+# Vector Database
+faiss-cpu
+
+# Token Counting
+tiktoken
+
+# Utilities
+pydantic
+tenacity
+
+# Optional UI
+streamlit
+
